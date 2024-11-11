@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f3ff66-d29a-4e21-ae22-b2a2982a4233" name="Changes" comment="Am rezolvat primul exercitiu">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex7/MediaAritmetica.java" afterDir="false" />
+    <list default="true" id="78f3ff66-d29a-4e21-ae22-b2a2982a4233" name="Changes" comment="Media aritmetica">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ex7/MediaAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ex7/MediaAritmetica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,38 +51,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex5.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/java_fundamentals_coding/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainString.executor": "Run",
+    "Application.MediaAritmetica.executor": "Run",
+    "Application.org.example.ex10.Main.executor": "Debug",
+    "Application.org.example.ex11.Main.executor": "Run",
+    "Application.org.example.ex2.Main.executor": "Run",
+    "Application.org.example.ex3.Main.executor": "Run",
+    "Application.org.example.ex4.Main.executor": "Run",
+    "Application.org.example.ex5.Main.executor": "Debug",
+    "Application.org.example.ex8.Main.executor": "Run",
+    "Application.org.example.ex9.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/java_fundamentals_coding/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.ex6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MediaAritmetica">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex7.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex12.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex7.*" />
+          <option name="PATTERN" value="org.example.ex12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex5.MainString" />
+    <configuration name="org.example.ex10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex10.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex5.*" />
+          <option name="PATTERN" value="org.example.ex10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediaAritmetica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex7.MediaAritmetica" />
+    <configuration name="org.example.ex11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex11.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex7.*" />
+          <option name="PATTERN" value="org.example.ex11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.ex4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex4.Main" />
+    <configuration name="org.example.ex8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex8.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex4.*" />
+          <option name="PATTERN" value="org.example.ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.ex5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex5.Main" />
+    <configuration name="org.example.ex9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex9.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex5.*" />
+          <option name="PATTERN" value="org.example.ex9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MediaAritmetica" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainString" />
-        <item itemvalue="Application.org.example.ex5.Main" />
-        <item itemvalue="Application.org.example.ex4.Main" />
+        <item itemvalue="Application.org.example.ex11.Main" />
+        <item itemvalue="Application.org.example.ex10.Main" />
+        <item itemvalue="Application.org.example.ex9.Main" />
+        <item itemvalue="Application.org.example.ex8.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -172,12 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731006776426</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Media aritmetica">
+      <option name="closed" value="true" />
+      <created>1731099975825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731099975825</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Am rezolvat primul exercitiu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Am rezolvat primul exercitiu" />
+    <MESSAGE value="Media aritmetica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Media aritmetica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

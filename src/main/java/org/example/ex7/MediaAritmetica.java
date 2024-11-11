@@ -12,17 +12,17 @@ public class MediaAritmetica {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introduceți numărul de valori: ");
-        int n = scanner.nextInt();
+        int numbers = scanner.nextInt();
 
         double suma = 0;
 
         System.out.println("Introduceți valorile:");
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < numbers; i++) {
             System.out.print("Număr " + (i + 1) + ": ");
             double numar = scanner.nextDouble();
             suma += numar;
         }
-        double media = suma / n;
+        double media = suma / numbers;
         System.out.println("Media numerelor introduse este: " + media);
         scanner.close();
     }
