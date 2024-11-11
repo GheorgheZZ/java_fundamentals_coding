@@ -25,5 +25,6 @@ public class Main {
             }
         }
         System.out.println("In text sunt " + litereMari + " litere mari si " + litereMici + " litere mici");
+
     }
 }
