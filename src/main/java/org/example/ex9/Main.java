@@ -13,16 +13,13 @@ public class Main {
         int lungime = propozitie.length();
         int litereMari = 0;
         int litereMici = 0;
-        int spatiuRepet = 0;
-        char spatiu = ' ';
         for (int i = 0; i < lungime; i++) {
             if (Character.isUpperCase(propozitie.charAt(i))) {
                 litereMari++;
-            } else if (propozitie.charAt(i) == spatiu) {
-                spatiuRepet++;
             } else if (Character.isLowerCase(propozitie.charAt(i))) {
                 litereMici++;
             }
+
         }
         System.out.println("In text sunt " + litereMari + " litere mari si " + litereMici + " litere mici");
 

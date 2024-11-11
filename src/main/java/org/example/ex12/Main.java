@@ -9,6 +9,7 @@ public class Main {
         int[] numbers = {1, 2, 3, 4, 5};
         int sum = 0;
         int average = 0;
+
         for (int i = numbers.length - 1; i >= 0; i--) {
             sum = sum+numbers[(numbers.length - 1) - i];
             average =sum/numbers.length;

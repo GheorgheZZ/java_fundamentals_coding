@@ -15,6 +15,7 @@ public class Main {
 
             numberReversed[(numbers.length - 1) - i] = numbers[i];
             System.out.println("Indexul este: " + ((numbers.length - 1) - i));
+
         }
         for (int n : numberReversed) {
             System.out.println(n);
