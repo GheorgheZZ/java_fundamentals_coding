@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f3ff66-d29a-4e21-ae22-b2a2982a4233" name="Changes" comment="Ex5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex15/JoculFoarfeca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex16/Jocul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex18/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ex11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ex11/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ex12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ex12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ex9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ex9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,43 +54,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediaAritmetica.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex10.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.org.example.ex11.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex5.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.org.example.ex8.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.ex9.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/java_fundamentals_coding/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Jocul.executor": "Run",
+    "Application.JoculFoarfeca.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainString.executor": "Run",
+    "Application.MediaAritmetica.executor": "Run",
+    "Application.org.example.ex10.Main.executor": "Debug",
+    "Application.org.example.ex11.Main.executor": "Run",
+    "Application.org.example.ex13.Main.executor": "Debug",
+    "Application.org.example.ex14.Main.executor": "Run",
+    "Application.org.example.ex17.Main.executor": "Run",
+    "Application.org.example.ex2.Main.executor": "Run",
+    "Application.org.example.ex3.Main.executor": "Run",
+    "Application.org.example.ex4.Main.executor": "Run",
+    "Application.org.example.ex5.Main.executor": "Debug",
+    "Application.org.example.ex8.Main.executor": "Run",
+    "Application.org.example.ex9.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/java_fundamentals_coding/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.ex6" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="Jocul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex16.Jocul" />
+      <module name="java_fundamentals_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoculFoarfeca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex15.JoculFoarfeca" />
+      <module name="java_fundamentals_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex12.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex18.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex12.*" />
+          <option name="PATTERN" value="org.example.ex18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.ex10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex10.Main" />
+    <configuration name="org.example.ex14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex14.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex10.*" />
+          <option name="PATTERN" value="org.example.ex14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,38 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.ex11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex11.Main" />
+    <configuration name="org.example.ex17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ex17.Main" />
       <module name="java_fundamentals_coding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.ex8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex8.Main" />
-      <module name="java_fundamentals_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ex8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.ex9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ex9.Main" />
-      <module name="java_fundamentals_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ex9.*" />
+          <option name="PATTERN" value="org.example.ex17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,10 +158,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.org.example.ex11.Main" />
-        <item itemvalue="Application.org.example.ex10.Main" />
-        <item itemvalue="Application.org.example.ex9.Main" />
-        <item itemvalue="Application.org.example.ex8.Main" />
+        <item itemvalue="Application.org.example.ex17.Main" />
+        <item itemvalue="Application.Jocul" />
+        <item itemvalue="Application.JoculFoarfeca" />
+        <item itemvalue="Application.org.example.ex14.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731351967047</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ex5">
+      <option name="closed" value="true" />
+      <created>1731352093192</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731352093192</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
