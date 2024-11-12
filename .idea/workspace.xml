@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f3ff66-d29a-4e21-ae22-b2a2982a4233" name="Changes" comment="Ex5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex15/JoculFoarfeca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex16/Jocul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ex18/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78f3ff66-d29a-4e21-ae22-b2a2982a4233" name="Changes" comment="Ex5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731352093192</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ex5">
+      <option name="closed" value="true" />
+      <created>1731437969865</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731437969865</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
